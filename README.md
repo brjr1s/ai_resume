@@ -4,6 +4,8 @@ AI Resume Assistant is a full-stack prototype for resume matching and optimizati
 
 当前项目定位是 **AI 简历助手的可运行基础版本**：前端页面、后端 API、文件上传入口、JD 解析、规则版匹配分析和面试题生成已经打通；真正的 PDF/DOCX 正文解析、大模型改写、数据库持久化和导出能力还在后续阶段。
 
+![AI Resume Assistant frontend preview](docs/images/app-preview.png)
+
 ## Features
 
 已实现：
